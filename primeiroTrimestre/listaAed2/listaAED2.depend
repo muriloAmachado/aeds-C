@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1712187577 source:/home/murilo/Home/listaAED2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<math.h>
+
